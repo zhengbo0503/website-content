@@ -4,7 +4,7 @@ toc : true
 date : "2022-11-04"
 ---
 
-My name is **Zhengbo Zhou**, in Chinese "周正博"
+Hello, my name is **Zhengbo Zhou**, in Chinese "周正博"
 
 I am currently a PhD student in 
 
