@@ -1,0 +1,17 @@
+baseURL = 'https://zhengbo0503.github.io/'
+languageCode = "en-us"
+theme = "hugo-ink"
+title = "你好！Hello！Hallo！Bonjour！"
+# Code Highlight
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsstyle = "vs"
+paginate = 10 # articles per page
+
+googleAnalytics = "UA-52525161-8"
+
+[params]
+avatar = "https://avatars.githubusercontent.com/u/4198311"
+mode = "light"
+featherIconsCDN = true
+subtitle = "Good Good Study, Day Day Up"

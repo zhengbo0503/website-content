@@ -1,0 +1,4 @@
+[submodule "my-site/public"]
+	path = my-site/public
+	url = https://github.com/zhengbo0503/zhengbo0503.github.io.git
+	branch = main
