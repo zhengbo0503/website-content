@@ -1,5 +1,5 @@
 baseURL = 'https://zhengbo0503.github.io/'
-languageCode = "en-us"
+languageCode = "en-uk"
 theme = "hugo-ink"
 title = "你好！Hello！Hallo！Bonjour！"
 # Code Highlight
@@ -11,7 +11,7 @@ paginate = 10 # articles per page
 googleAnalytics = "UA-52525161-8"
 
 [params]
-avatar = "https://avatars.githubusercontent.com/u/4198311"
+# avatar = "https://raw.githubusercontent.com/zhengbo0503/cf/main/Screenshot%202021-11-30%20at%2002.59.45.jpeg?token=GHSAT0AAAAAAB5G2IS6JM7MFK3PPCHEOCEKY6NOV5Q"
 mode = "light"
 featherIconsCDN = true
 subtitle = "Good Good Study, Day Day Up"
